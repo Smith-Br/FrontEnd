@@ -100,7 +100,7 @@ function sum_laps() {
 
 sum_laps()
 
-// Creat a function that inccrements the lapsCompleted variable with one
+// Creat a function that increments the lapsCompleted variable with one
 // Run it three times
 
 let lapsCompleted = 0
@@ -111,8 +111,13 @@ function laps_completed() {
 }
 
 let counter = 0
-function count_el() {
+function increment() {
     counter = counter + 1
     document.getElementById("count-el").innerText = counter
+}
+
+// 1. Creat a function, save(), which logs out then count when it's called
+function save() {
+
 }
 
