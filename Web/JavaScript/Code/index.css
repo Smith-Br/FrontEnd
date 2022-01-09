@@ -1,0 +1,31 @@
+button
+{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#count-el
+{
+    background: #7777cc
+}
+
+#increment-btn
+{
+    background: darkred;
+}
+
+#get-race
+{
+    background: darkred;
+}
+
+#laps
+{
+    background: darkgoldenrod;
+}
